@@ -1,0 +1,12 @@
+<house>
+  <room>
+    <name>Living Room</name>
+    <side-length-1>5</side-length-1>
+    <side-length-2>5</side-length-2>
+  </room>
+  <room>
+    <name>Kitchen</name>
+    <side-length-1>3</side-length-1>
+    <side-length-2>6</side-length-2>
+  </room>
+</house>
